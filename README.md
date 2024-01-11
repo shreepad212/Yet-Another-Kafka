@@ -1,5 +1,5 @@
 
-Project Title: Yet another Kafka
+Project Title: Yet another Kafka \n
 An attempt to create clone of Kafka using socket programming.
 
 Publisher sends messages of topics to the broker via a socket where it is stored and forwarded to subscribers of
